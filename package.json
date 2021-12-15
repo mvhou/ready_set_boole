@@ -1,0 +1,24 @@
+{
+  "name": "ready_set_boole",
+  "version": "1.0.0",
+  "description": "Ready Set Boole project",
+  "main": "index.ts",
+  "dependencies": {},
+  "devDependencies": {
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvhou/ready_set_boole.git"
+  },
+  "author": "mvan-hou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mvhou/ready_set_boole/issues"
+  },
+  "homepage": "https://github.com/mvhou/ready_set_boole#readme"
+}
