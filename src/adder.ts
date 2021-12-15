@@ -1,0 +1,1 @@
+const adder = (a:number, b:number):number => (b == 0) ? a : adder(a ^ b, (a & b) << 1);
